@@ -10,7 +10,7 @@ Once Sublime text is installed some basic setting would make your live easy. Als
 * [Changing color themes](#changing-color-themes)
 * [Installing package controller](#installing-packages-controller)
 * [Installing packages using Package controller](#installing-packages-using-package-controller)
-* [Uninstalling packages using Package controller](<div id="uninstalling-packages-using-package-controller"></div>)
+* [Uninstalling packages using Package controller](#uninstalling-packages-using-package-controller)
 
 #### Changing color themes
 You can change the colour theme by going to menus: Preferences > Color Scheme > Color Scheme - Default  and select the desired color theme.
