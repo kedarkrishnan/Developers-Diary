@@ -7,10 +7,10 @@
 Once Sublime text is installed some basic setting would make your live easy. Also one needs to install the package controller which would help install the powerfull packages that like auto competion of syntax for languages, Zen coding etc.
 
 #### Topics
-* [Changing color themes](#changing-color-themes)
-* [Installing package controller](#installing-packages-controller)
-* [Installing packages using Package controller](#installing-packages-using-package-controller)
-* [Uninstalling packages using Package controller](#uninstalling-packages-using-package-controller)
+1. [Changing color themes](#changing-color-themes)
+2. [Installing package controller](#installing-packages-controller)
+3. [Installing packages using Package controller](#installing-packages-using-package-controller)
+4. [Uninstalling packages using Package controller](#uninstalling-packages-using-package-controller)
 
 #### Changing color themes
 You can change the colour theme by going to menus: Preferences > Color Scheme > Color Scheme - Default  and select the desired color theme.
