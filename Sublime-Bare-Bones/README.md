@@ -1,3 +1,4 @@
+[Developers Diary](../README.md)
 # Sublime Text Editor Bare Bones
 As I moved towards the fronend technologies I came across Sublime text editor and have really fallen in love with the editor. Its simple yet powerfull tool for working on a number of languages. It have a number of packages which one can add as needed enabeling more and more featured for the tool. Though installing packages is a bit tricky and knowing that there are such powerfull packages is another thing. The intent of this Bare bones is to get new developers started with the editor.
 
