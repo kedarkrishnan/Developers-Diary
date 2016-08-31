@@ -27,7 +27,7 @@ to this:
 
 ### BracketHighlighter
 This is a simple package which helps highlight the ending or starting of the brackets in your code. 
-<img src="./images/bracket-highlighter.png" alt="Bracket Highlighter">
+<img src="./images/bracket-highlighter.gif" alt="Bracket Highlighter">
 
 ### SideBarEnhancements
 This package will allow you to create, move folder, move files between folder from editor. After you install and restart you should be able to see a list of new options added when you right click on the side panel.
