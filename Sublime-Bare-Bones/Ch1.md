@@ -8,13 +8,21 @@ Once Sublime text is installed some basic setting would make your live easy. Als
 
 #### Topics
 1. [Changing color themes](#changing-color-themes)
-2. [Installing package controller](#installing-packages-controller)
-3. [Installing packages using Package controller](#installing-packages-using-package-controller)
-4. [Uninstalling packages using Package controller](#uninstalling-packages-using-package-controller)
+2. [Show Side bar to show folders and files](#show-side-bar-to-show-folders-and-files)
+3. [Installing package controller](#installing-packages-controller)
+4. [Installing packages using Package controller](#installing-packages-using-package-controller)
+5. [Uninstalling packages using Package controller](#uninstalling-packages-using-package-controller)
 
 #### Changing color themes
 You can change the colour theme by going to menus: Preferences > Color Scheme > Color Scheme - Default  and select the desired color theme.
+
 <img src="./images/change-color-theme.png" alt="Changing sublime color theme">
+
+#### Show Side bar to show folders and files
+You can open the side bar by going to menus: View > Side Bar > Show Side Bar.
+Now can drag and drop the project folder on the side bar to get a tree view of all the project files and open them by clicking the open you want to open.
+
+<img src="./images/side-bar.png" alt="Showing Side Bar">
 
 #### Installing packages controller
 To start installing packages you first need to install the **package controller**.
