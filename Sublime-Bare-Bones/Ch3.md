@@ -3,6 +3,7 @@
 ---
 # Sublime Text Editor Bare Bones
 ## Chapter 3 : Shortcuts
+When working on projects a few shortcuts help you work faster and more efficiently.
 
 #### Topics
 1. [Quick comment the code](quick-comment-the-code)
@@ -75,7 +76,7 @@ A popup will appear. When you start typing in the popup would will see all the f
 * <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>d</kbd> (Windows)
 * <kbd>Command</kbd> + <kbd>Shift</kbd> + <kbd>d</kbd> (Mac)
 
-This create a copy of the complete line currently the cursor is on and insert it below the current line.
+This creates a copy of the complete line currently the cursor is on and inserts it below the current line.
 
 ---
 

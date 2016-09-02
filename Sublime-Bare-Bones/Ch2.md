@@ -5,7 +5,7 @@
 ## Chapter 2 : Sublime packages a developer should have
 Sublime text has a long list of packages which can be found [here](https://packagecontrol.io/browse). You will find packages from language syntax to folder and git management.
 
-As a front end developer I would sugget a few packages that would definetly make your lifes a litte easy.
+As a front end developer I would sugget a few packages that would definetly make your life a litte easy.
 
 #### Topics
 1. [Emmet](#emmet)
@@ -17,7 +17,7 @@ As a front end developer I would sugget a few packages that would definetly make
 7. [Angular JS](#angular-js)
 
 ### Emmet
-This tool helps in high speed HTML coding. The most manual effort in HTML coding goes mainly in putting in the starting ending tags for each element. This tool helps you in reducing this typing.
+This package helps in high speed HTML coding. The most manual effort in HTML coding goes mainly in putting in the starting ending tags for each element. Emmet helps you reduce this typing.
 With Emmet you go from this:
 <img src="./images/emmet-abbreviation-1.png" alt="Emmet abbreviation"> 
 
@@ -38,7 +38,7 @@ This package will allow you to create, move folder, move files between folder fr
 Open a Terminal in the directory your current file belongs to. By default you just press the short cut key <kbd>Ctrl</kbd> + <kbd>Shit</kbd> + <kbd>t</kbd> (Mac: <kbd>Command</kbd> +  <kbd>Shit</kbd> + <kbd>t</kbd>)  
 
 ### HTML5
-Auto completes HTML5 tags like section, article 
+Auto completes HTML5 tags like section, article, etc.
 
 ### Autoprefix CSS
 Autoprefix CSS helps you prefix the CSS file with correct browser vendor prefix for CSS properties using <http://caniuse.com/> data. By default it is set to `"browsers": ["last 2 versions"]` which can be changed by going to menus: Preferences > Package Settings > Autoprefix > Settings - User and add the lines 

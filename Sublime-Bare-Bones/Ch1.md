@@ -4,7 +4,7 @@
 
 # Sublime Text Editor Bare Bones
 ## Chapter 1 : Setting Up Sublime Text Editor
-Once Sublime text is installed some basic setting would make your live easy. Also one needs to install the package controller which would help install the powerfull packages that like auto competion of syntax for languages, Zen coding etc.
+Once Sublime text is installed some basic setting would make your live easy. Also one needs to install the package controller which would help install the powerfull packages like auto competion of syntax for languages, Zen coding etc.
 
 #### Topics
 1. [Changing color themes](#changing-color-themes)
